@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1449078539 source:c:\users\bmartens\documents\c++ projects\large sum\main.cpp
+	"BigNum.h"
+
+1449075682 source:c:\users\bmartens\documents\c++ projects\large sum\bignum.cpp
+	"BigNum.h"
+
+1449075649 c:\users\bmartens\documents\c++ projects\large sum\bignum.h
+	<vector>
+	<iostream>
+	<sstream>
+	<string>
+	<fstream>
+	<math.h>
+

@@ -1,0 +1,2000 @@
+Prior to addition Adding: 1
+Case: single only Added 3 With result 3
+Prior to addition Adding: 2
+Case: single only Added 5 With result 6
+Prior to addition Adding: 3
+Case: single only Added 4 With result 11
+Prior to addition Adding: 4
+Case: single only Added 4 With result 15
+Prior to addition Adding: 5
+Case: single only Added 3 With result 19
+Prior to addition Adding: 6
+Case: single only Added 5 With result 22
+Prior to addition Adding: 7
+Case: single only Added 5 With result 27
+Prior to addition Adding: 8
+Case: single only Added 4 With result 32
+Prior to addition Adding: 9
+Case: single only Added 10 With result 36
+Prior to addition Adding: 10
+case: even ten Added: 3 with result 39
+Prior to addition Adding: 11
+case: Only teens added: 6 With result 45
+Prior to addition Adding: 12
+case: Only teens added: 6 With result 51
+Prior to addition Adding: 13
+case: Only teens added: 8 With result 59
+Prior to addition Adding: 14
+case: Only teens added: 8 With result 67
+Prior to addition Adding: 15
+case: Only teens added: 7 With result 74
+Prior to addition Adding: 16
+case: Only teens added: 7 With result 81
+Prior to addition Adding: 17
+case: Only teens added: 9 With result 90
+Prior to addition Adding: 18
+case: Only teens added: 8 With result 98
+Prior to addition Adding: 19
+case: Only teens added: 8 With result 106
+Prior to addition Adding: 20
+case: even ten Added: 6 with result 112
+Prior to addition Adding: 21
+Case: composite ten Added: 9 With result 121
+Prior to addition Adding: 22
+Case: composite ten Added: 9 With result 130
+Prior to addition Adding: 23
+Case: composite ten Added: 11 With result 141
+Prior to addition Adding: 24
+Case: composite ten Added: 10 With result 151
+Prior to addition Adding: 25
+Case: composite ten Added: 10 With result 161
+Prior to addition Adding: 26
+Case: composite ten Added: 9 With result 170
+Prior to addition Adding: 27
+Case: composite ten Added: 11 With result 181
+Prior to addition Adding: 28
+Case: composite ten Added: 11 With result 192
+Prior to addition Adding: 29
+Case: composite ten Added: 10 With result 202
+Prior to addition Adding: 30
+case: even ten Added: 6 with result 208
+Prior to addition Adding: 31
+Case: composite ten Added: 9 With result 217
+Prior to addition Adding: 32
+Case: composite ten Added: 9 With result 226
+Prior to addition Adding: 33
+Case: composite ten Added: 11 With result 237
+Prior to addition Adding: 34
+Case: composite ten Added: 10 With result 247
+Prior to addition Adding: 35
+Case: composite ten Added: 10 With result 257
+Prior to addition Adding: 36
+Case: composite ten Added: 9 With result 266
+Prior to addition Adding: 37
+Case: composite ten Added: 11 With result 277
+Prior to addition Adding: 38
+Case: composite ten Added: 11 With result 288
+Prior to addition Adding: 39
+Case: composite ten Added: 10 With result 298
+Prior to addition Adding: 40
+case: even ten Added: 5 with result 303
+Prior to addition Adding: 41
+Case: composite ten Added: 8 With result 311
+Prior to addition Adding: 42
+Case: composite ten Added: 8 With result 319
+Prior to addition Adding: 43
+Case: composite ten Added: 10 With result 329
+Prior to addition Adding: 44
+Case: composite ten Added: 9 With result 338
+Prior to addition Adding: 45
+Case: composite ten Added: 9 With result 347
+Prior to addition Adding: 46
+Case: composite ten Added: 8 With result 355
+Prior to addition Adding: 47
+Case: composite ten Added: 10 With result 365
+Prior to addition Adding: 48
+Case: composite ten Added: 10 With result 375
+Prior to addition Adding: 49
+Case: composite ten Added: 9 With result 384
+Prior to addition Adding: 50
+case: even ten Added: 5 with result 389
+Prior to addition Adding: 51
+Case: composite ten Added: 8 With result 397
+Prior to addition Adding: 52
+Case: composite ten Added: 8 With result 405
+Prior to addition Adding: 53
+Case: composite ten Added: 10 With result 415
+Prior to addition Adding: 54
+Case: composite ten Added: 9 With result 424
+Prior to addition Adding: 55
+Case: composite ten Added: 9 With result 433
+Prior to addition Adding: 56
+Case: composite ten Added: 8 With result 441
+Prior to addition Adding: 57
+Case: composite ten Added: 10 With result 451
+Prior to addition Adding: 58
+Case: composite ten Added: 10 With result 461
+Prior to addition Adding: 59
+Case: composite ten Added: 9 With result 470
+Prior to addition Adding: 60
+case: even ten Added: 5 with result 475
+Prior to addition Adding: 61
+Case: composite ten Added: 8 With result 483
+Prior to addition Adding: 62
+Case: composite ten Added: 8 With result 491
+Prior to addition Adding: 63
+Case: composite ten Added: 10 With result 501
+Prior to addition Adding: 64
+Case: composite ten Added: 9 With result 510
+Prior to addition Adding: 65
+Case: composite ten Added: 9 With result 519
+Prior to addition Adding: 66
+Case: composite ten Added: 8 With result 527
+Prior to addition Adding: 67
+Case: composite ten Added: 10 With result 537
+Prior to addition Adding: 68
+Case: composite ten Added: 10 With result 547
+Prior to addition Adding: 69
+Case: composite ten Added: 9 With result 556
+Prior to addition Adding: 70
+case: even ten Added: 7 with result 563
+Prior to addition Adding: 71
+Case: composite ten Added: 10 With result 573
+Prior to addition Adding: 72
+Case: composite ten Added: 10 With result 583
+Prior to addition Adding: 73
+Case: composite ten Added: 12 With result 595
+Prior to addition Adding: 74
+Case: composite ten Added: 11 With result 606
+Prior to addition Adding: 75
+Case: composite ten Added: 11 With result 617
+Prior to addition Adding: 76
+Case: composite ten Added: 10 With result 627
+Prior to addition Adding: 77
+Case: composite ten Added: 12 With result 639
+Prior to addition Adding: 78
+Case: composite ten Added: 12 With result 651
+Prior to addition Adding: 79
+Case: composite ten Added: 11 With result 662
+Prior to addition Adding: 80
+case: even ten Added: 6 with result 668
+Prior to addition Adding: 81
+Case: composite ten Added: 9 With result 677
+Prior to addition Adding: 82
+Case: composite ten Added: 9 With result 686
+Prior to addition Adding: 83
+Case: composite ten Added: 11 With result 697
+Prior to addition Adding: 84
+Case: composite ten Added: 10 With result 707
+Prior to addition Adding: 85
+Case: composite ten Added: 10 With result 717
+Prior to addition Adding: 86
+Case: composite ten Added: 9 With result 726
+Prior to addition Adding: 87
+Case: composite ten Added: 11 With result 737
+Prior to addition Adding: 88
+Case: composite ten Added: 11 With result 748
+Prior to addition Adding: 89
+Case: composite ten Added: 10 With result 758
+Prior to addition Adding: 90
+case: even ten Added: 6 with result 764
+Prior to addition Adding: 91
+Case: composite ten Added: 9 With result 773
+Prior to addition Adding: 92
+Case: composite ten Added: 9 With result 782
+Prior to addition Adding: 93
+Case: composite ten Added: 11 With result 793
+Prior to addition Adding: 94
+Case: composite ten Added: 10 With result 803
+Prior to addition Adding: 95
+Case: composite ten Added: 10 With result 813
+Prior to addition Adding: 96
+Case: composite ten Added: 9 With result 822
+Prior to addition Adding: 97
+Case: composite ten Added: 11 With result 833
+Prior to addition Adding: 98
+Case: composite ten Added: 11 With result 844
+Prior to addition Adding: 99
+Case: composite ten Added: 10 With result 854
+Prior to addition Adding: 100
+Case: even hundred Added: 10 With result: 864
+Prior to addition Adding: 101
+case Hundred with no tens Added: 16 With result: 880
+Prior to addition Adding: 102
+case Hundred with no tens Added: 16 With result: 896
+Prior to addition Adding: 103
+case Hundred with no tens Added: 18 With result: 914
+Prior to addition Adding: 104
+case Hundred with no tens Added: 17 With result: 931
+Prior to addition Adding: 105
+case Hundred with no tens Added: 17 With result: 948
+Prior to addition Adding: 106
+case Hundred with no tens Added: 16 With result: 964
+Prior to addition Adding: 107
+case Hundred with no tens Added: 18 With result: 982
+Prior to addition Adding: 108
+case Hundred with no tens Added: 18 With result: 1000
+Prior to addition Adding: 109
+case Hundred with no tens Added: 17 With result: 1017
+Prior to addition Adding: 110
+Case hundred with even ten Added: 16 With result: 1033
+Prior to addition Adding: 111
+Case: hundred within teens Added: 19 with result 1052
+Prior to addition Adding: 112
+Case: hundred within teens Added: 19 with result 1071
+Prior to addition Adding: 113
+Case: hundred within teens Added: 21 with result 1092
+Prior to addition Adding: 114
+Case: hundred within teens Added: 21 with result 1113
+Prior to addition Adding: 115
+Case: hundred within teens Added: 20 with result 1133
+Prior to addition Adding: 116
+Case: hundred within teens Added: 20 with result 1153
+Prior to addition Adding: 117
+Case: hundred within teens Added: 22 with result 1175
+Prior to addition Adding: 118
+Case: hundred within teens Added: 21 with result 1196
+Prior to addition Adding: 119
+Case: hundred within teens Added: 21 with result 1217
+Prior to addition Adding: 120
+Case hundred with even ten Added: 19 With result: 1236
+Prior to addition Adding: 121
+case: composite hundred Added: 22 With result 1258
+Prior to addition Adding: 122
+case: composite hundred Added: 22 With result 1280
+Prior to addition Adding: 123
+case: composite hundred Added: 24 With result 1304
+Prior to addition Adding: 124
+case: composite hundred Added: 23 With result 1327
+Prior to addition Adding: 125
+case: composite hundred Added: 23 With result 1350
+Prior to addition Adding: 126
+case: composite hundred Added: 22 With result 1372
+Prior to addition Adding: 127
+case: composite hundred Added: 24 With result 1396
+Prior to addition Adding: 128
+case: composite hundred Added: 24 With result 1420
+Prior to addition Adding: 129
+case: composite hundred Added: 23 With result 1443
+Prior to addition Adding: 130
+Case hundred with even ten Added: 19 With result: 1462
+Prior to addition Adding: 131
+case: composite hundred Added: 22 With result 1484
+Prior to addition Adding: 132
+case: composite hundred Added: 22 With result 1506
+Prior to addition Adding: 133
+case: composite hundred Added: 24 With result 1530
+Prior to addition Adding: 134
+case: composite hundred Added: 23 With result 1553
+Prior to addition Adding: 135
+case: composite hundred Added: 23 With result 1576
+Prior to addition Adding: 136
+case: composite hundred Added: 22 With result 1598
+Prior to addition Adding: 137
+case: composite hundred Added: 24 With result 1622
+Prior to addition Adding: 138
+case: composite hundred Added: 24 With result 1646
+Prior to addition Adding: 139
+case: composite hundred Added: 23 With result 1669
+Prior to addition Adding: 140
+Case hundred with even ten Added: 18 With result: 1687
+Prior to addition Adding: 141
+case: composite hundred Added: 21 With result 1708
+Prior to addition Adding: 142
+case: composite hundred Added: 21 With result 1729
+Prior to addition Adding: 143
+case: composite hundred Added: 23 With result 1752
+Prior to addition Adding: 144
+case: composite hundred Added: 22 With result 1774
+Prior to addition Adding: 145
+case: composite hundred Added: 22 With result 1796
+Prior to addition Adding: 146
+case: composite hundred Added: 21 With result 1817
+Prior to addition Adding: 147
+case: composite hundred Added: 23 With result 1840
+Prior to addition Adding: 148
+case: composite hundred Added: 23 With result 1863
+Prior to addition Adding: 149
+case: composite hundred Added: 22 With result 1885
+Prior to addition Adding: 150
+Case hundred with even ten Added: 18 With result: 1903
+Prior to addition Adding: 151
+case: composite hundred Added: 21 With result 1924
+Prior to addition Adding: 152
+case: composite hundred Added: 21 With result 1945
+Prior to addition Adding: 153
+case: composite hundred Added: 23 With result 1968
+Prior to addition Adding: 154
+case: composite hundred Added: 22 With result 1990
+Prior to addition Adding: 155
+case: composite hundred Added: 22 With result 2012
+Prior to addition Adding: 156
+case: composite hundred Added: 21 With result 2033
+Prior to addition Adding: 157
+case: composite hundred Added: 23 With result 2056
+Prior to addition Adding: 158
+case: composite hundred Added: 23 With result 2079
+Prior to addition Adding: 159
+case: composite hundred Added: 22 With result 2101
+Prior to addition Adding: 160
+Case hundred with even ten Added: 18 With result: 2119
+Prior to addition Adding: 161
+case: composite hundred Added: 21 With result 2140
+Prior to addition Adding: 162
+case: composite hundred Added: 21 With result 2161
+Prior to addition Adding: 163
+case: composite hundred Added: 23 With result 2184
+Prior to addition Adding: 164
+case: composite hundred Added: 22 With result 2206
+Prior to addition Adding: 165
+case: composite hundred Added: 22 With result 2228
+Prior to addition Adding: 166
+case: composite hundred Added: 21 With result 2249
+Prior to addition Adding: 167
+case: composite hundred Added: 23 With result 2272
+Prior to addition Adding: 168
+case: composite hundred Added: 23 With result 2295
+Prior to addition Adding: 169
+case: composite hundred Added: 22 With result 2317
+Prior to addition Adding: 170
+Case hundred with even ten Added: 20 With result: 2337
+Prior to addition Adding: 171
+case: composite hundred Added: 23 With result 2360
+Prior to addition Adding: 172
+case: composite hundred Added: 23 With result 2383
+Prior to addition Adding: 173
+case: composite hundred Added: 25 With result 2408
+Prior to addition Adding: 174
+case: composite hundred Added: 24 With result 2432
+Prior to addition Adding: 175
+case: composite hundred Added: 24 With result 2456
+Prior to addition Adding: 176
+case: composite hundred Added: 23 With result 2479
+Prior to addition Adding: 177
+case: composite hundred Added: 25 With result 2504
+Prior to addition Adding: 178
+case: composite hundred Added: 25 With result 2529
+Prior to addition Adding: 179
+case: composite hundred Added: 24 With result 2553
+Prior to addition Adding: 180
+Case hundred with even ten Added: 19 With result: 2572
+Prior to addition Adding: 181
+case: composite hundred Added: 22 With result 2594
+Prior to addition Adding: 182
+case: composite hundred Added: 22 With result 2616
+Prior to addition Adding: 183
+case: composite hundred Added: 24 With result 2640
+Prior to addition Adding: 184
+case: composite hundred Added: 23 With result 2663
+Prior to addition Adding: 185
+case: composite hundred Added: 23 With result 2686
+Prior to addition Adding: 186
+case: composite hundred Added: 22 With result 2708
+Prior to addition Adding: 187
+case: composite hundred Added: 24 With result 2732
+Prior to addition Adding: 188
+case: composite hundred Added: 24 With result 2756
+Prior to addition Adding: 189
+case: composite hundred Added: 23 With result 2779
+Prior to addition Adding: 190
+Case hundred with even ten Added: 19 With result: 2798
+Prior to addition Adding: 191
+case: composite hundred Added: 22 With result 2820
+Prior to addition Adding: 192
+case: composite hundred Added: 22 With result 2842
+Prior to addition Adding: 193
+case: composite hundred Added: 24 With result 2866
+Prior to addition Adding: 194
+case: composite hundred Added: 23 With result 2889
+Prior to addition Adding: 195
+case: composite hundred Added: 23 With result 2912
+Prior to addition Adding: 196
+case: composite hundred Added: 22 With result 2934
+Prior to addition Adding: 197
+case: composite hundred Added: 24 With result 2958
+Prior to addition Adding: 198
+case: composite hundred Added: 24 With result 2982
+Prior to addition Adding: 199
+case: composite hundred Added: 23 With result 3005
+Prior to addition Adding: 200
+Case: even hundred Added: 10 With result: 3015
+Prior to addition Adding: 201
+case Hundred with no tens Added: 18 With result: 3031
+Prior to addition Adding: 202
+case Hundred with no tens Added: 18 With result: 3047
+Prior to addition Adding: 203
+case Hundred with no tens Added: 20 With result: 3065
+Prior to addition Adding: 204
+case Hundred with no tens Added: 19 With result: 3082
+Prior to addition Adding: 205
+case Hundred with no tens Added: 19 With result: 3099
+Prior to addition Adding: 206
+case Hundred with no tens Added: 18 With result: 3115
+Prior to addition Adding: 207
+case Hundred with no tens Added: 20 With result: 3133
+Prior to addition Adding: 208
+case Hundred with no tens Added: 20 With result: 3151
+Prior to addition Adding: 209
+case Hundred with no tens Added: 19 With result: 3168
+Prior to addition Adding: 210
+Case hundred with even ten Added: 16 With result: 3184
+Prior to addition Adding: 211
+Case: hundred within teens Added: 19 with result 3203
+Prior to addition Adding: 212
+Case: hundred within teens Added: 19 with result 3222
+Prior to addition Adding: 213
+Case: hundred within teens Added: 21 with result 3243
+Prior to addition Adding: 214
+Case: hundred within teens Added: 21 with result 3264
+Prior to addition Adding: 215
+Case: hundred within teens Added: 20 with result 3284
+Prior to addition Adding: 216
+Case: hundred within teens Added: 20 with result 3304
+Prior to addition Adding: 217
+Case: hundred within teens Added: 22 with result 3326
+Prior to addition Adding: 218
+Case: hundred within teens Added: 21 with result 3347
+Prior to addition Adding: 219
+Case: hundred within teens Added: 21 with result 3368
+Prior to addition Adding: 220
+Case hundred with even ten Added: 19 With result: 3387
+Prior to addition Adding: 221
+case: composite hundred Added: 22 With result 3409
+Prior to addition Adding: 222
+case: composite hundred Added: 22 With result 3431
+Prior to addition Adding: 223
+case: composite hundred Added: 24 With result 3455
+Prior to addition Adding: 224
+case: composite hundred Added: 23 With result 3478
+Prior to addition Adding: 225
+case: composite hundred Added: 23 With result 3501
+Prior to addition Adding: 226
+case: composite hundred Added: 22 With result 3523
+Prior to addition Adding: 227
+case: composite hundred Added: 24 With result 3547
+Prior to addition Adding: 228
+case: composite hundred Added: 24 With result 3571
+Prior to addition Adding: 229
+case: composite hundred Added: 23 With result 3594
+Prior to addition Adding: 230
+Case hundred with even ten Added: 19 With result: 3613
+Prior to addition Adding: 231
+case: composite hundred Added: 22 With result 3635
+Prior to addition Adding: 232
+case: composite hundred Added: 22 With result 3657
+Prior to addition Adding: 233
+case: composite hundred Added: 24 With result 3681
+Prior to addition Adding: 234
+case: composite hundred Added: 23 With result 3704
+Prior to addition Adding: 235
+case: composite hundred Added: 23 With result 3727
+Prior to addition Adding: 236
+case: composite hundred Added: 22 With result 3749
+Prior to addition Adding: 237
+case: composite hundred Added: 24 With result 3773
+Prior to addition Adding: 238
+case: composite hundred Added: 24 With result 3797
+Prior to addition Adding: 239
+case: composite hundred Added: 23 With result 3820
+Prior to addition Adding: 240
+Case hundred with even ten Added: 18 With result: 3838
+Prior to addition Adding: 241
+case: composite hundred Added: 21 With result 3859
+Prior to addition Adding: 242
+case: composite hundred Added: 21 With result 3880
+Prior to addition Adding: 243
+case: composite hundred Added: 23 With result 3903
+Prior to addition Adding: 244
+case: composite hundred Added: 22 With result 3925
+Prior to addition Adding: 245
+case: composite hundred Added: 22 With result 3947
+Prior to addition Adding: 246
+case: composite hundred Added: 21 With result 3968
+Prior to addition Adding: 247
+case: composite hundred Added: 23 With result 3991
+Prior to addition Adding: 248
+case: composite hundred Added: 23 With result 4014
+Prior to addition Adding: 249
+case: composite hundred Added: 22 With result 4036
+Prior to addition Adding: 250
+Case hundred with even ten Added: 18 With result: 4054
+Prior to addition Adding: 251
+case: composite hundred Added: 21 With result 4075
+Prior to addition Adding: 252
+case: composite hundred Added: 21 With result 4096
+Prior to addition Adding: 253
+case: composite hundred Added: 23 With result 4119
+Prior to addition Adding: 254
+case: composite hundred Added: 22 With result 4141
+Prior to addition Adding: 255
+case: composite hundred Added: 22 With result 4163
+Prior to addition Adding: 256
+case: composite hundred Added: 21 With result 4184
+Prior to addition Adding: 257
+case: composite hundred Added: 23 With result 4207
+Prior to addition Adding: 258
+case: composite hundred Added: 23 With result 4230
+Prior to addition Adding: 259
+case: composite hundred Added: 22 With result 4252
+Prior to addition Adding: 260
+Case hundred with even ten Added: 18 With result: 4270
+Prior to addition Adding: 261
+case: composite hundred Added: 21 With result 4291
+Prior to addition Adding: 262
+case: composite hundred Added: 21 With result 4312
+Prior to addition Adding: 263
+case: composite hundred Added: 23 With result 4335
+Prior to addition Adding: 264
+case: composite hundred Added: 22 With result 4357
+Prior to addition Adding: 265
+case: composite hundred Added: 22 With result 4379
+Prior to addition Adding: 266
+case: composite hundred Added: 21 With result 4400
+Prior to addition Adding: 267
+case: composite hundred Added: 23 With result 4423
+Prior to addition Adding: 268
+case: composite hundred Added: 23 With result 4446
+Prior to addition Adding: 269
+case: composite hundred Added: 22 With result 4468
+Prior to addition Adding: 270
+Case hundred with even ten Added: 20 With result: 4488
+Prior to addition Adding: 271
+case: composite hundred Added: 23 With result 4511
+Prior to addition Adding: 272
+case: composite hundred Added: 23 With result 4534
+Prior to addition Adding: 273
+case: composite hundred Added: 25 With result 4559
+Prior to addition Adding: 274
+case: composite hundred Added: 24 With result 4583
+Prior to addition Adding: 275
+case: composite hundred Added: 24 With result 4607
+Prior to addition Adding: 276
+case: composite hundred Added: 23 With result 4630
+Prior to addition Adding: 277
+case: composite hundred Added: 25 With result 4655
+Prior to addition Adding: 278
+case: composite hundred Added: 25 With result 4680
+Prior to addition Adding: 279
+case: composite hundred Added: 24 With result 4704
+Prior to addition Adding: 280
+Case hundred with even ten Added: 19 With result: 4723
+Prior to addition Adding: 281
+case: composite hundred Added: 22 With result 4745
+Prior to addition Adding: 282
+case: composite hundred Added: 22 With result 4767
+Prior to addition Adding: 283
+case: composite hundred Added: 24 With result 4791
+Prior to addition Adding: 284
+case: composite hundred Added: 23 With result 4814
+Prior to addition Adding: 285
+case: composite hundred Added: 23 With result 4837
+Prior to addition Adding: 286
+case: composite hundred Added: 22 With result 4859
+Prior to addition Adding: 287
+case: composite hundred Added: 24 With result 4883
+Prior to addition Adding: 288
+case: composite hundred Added: 24 With result 4907
+Prior to addition Adding: 289
+case: composite hundred Added: 23 With result 4930
+Prior to addition Adding: 290
+Case hundred with even ten Added: 19 With result: 4949
+Prior to addition Adding: 291
+case: composite hundred Added: 22 With result 4971
+Prior to addition Adding: 292
+case: composite hundred Added: 22 With result 4993
+Prior to addition Adding: 293
+case: composite hundred Added: 24 With result 5017
+Prior to addition Adding: 294
+case: composite hundred Added: 23 With result 5040
+Prior to addition Adding: 295
+case: composite hundred Added: 23 With result 5063
+Prior to addition Adding: 296
+case: composite hundred Added: 22 With result 5085
+Prior to addition Adding: 297
+case: composite hundred Added: 24 With result 5109
+Prior to addition Adding: 298
+case: composite hundred Added: 24 With result 5133
+Prior to addition Adding: 299
+case: composite hundred Added: 23 With result 5156
+Prior to addition Adding: 300
+Case: even hundred Added: 12 With result: 5168
+Prior to addition Adding: 301
+case Hundred with no tens Added: 17 With result: 5186
+Prior to addition Adding: 302
+case Hundred with no tens Added: 17 With result: 5204
+Prior to addition Adding: 303
+case Hundred with no tens Added: 19 With result: 5224
+Prior to addition Adding: 304
+case Hundred with no tens Added: 18 With result: 5243
+Prior to addition Adding: 305
+case Hundred with no tens Added: 18 With result: 5262
+Prior to addition Adding: 306
+case Hundred with no tens Added: 17 With result: 5280
+Prior to addition Adding: 307
+case Hundred with no tens Added: 19 With result: 5300
+Prior to addition Adding: 308
+case Hundred with no tens Added: 19 With result: 5320
+Prior to addition Adding: 309
+case Hundred with no tens Added: 18 With result: 5339
+Prior to addition Adding: 310
+Case hundred with even ten Added: 18 With result: 5357
+Prior to addition Adding: 311
+Case: hundred within teens Added: 21 with result 5378
+Prior to addition Adding: 312
+Case: hundred within teens Added: 21 with result 5399
+Prior to addition Adding: 313
+Case: hundred within teens Added: 23 with result 5422
+Prior to addition Adding: 314
+Case: hundred within teens Added: 23 with result 5445
+Prior to addition Adding: 315
+Case: hundred within teens Added: 22 with result 5467
+Prior to addition Adding: 316
+Case: hundred within teens Added: 22 with result 5489
+Prior to addition Adding: 317
+Case: hundred within teens Added: 24 with result 5513
+Prior to addition Adding: 318
+Case: hundred within teens Added: 23 with result 5536
+Prior to addition Adding: 319
+Case: hundred within teens Added: 23 with result 5559
+Prior to addition Adding: 320
+Case hundred with even ten Added: 21 With result: 5580
+Prior to addition Adding: 321
+case: composite hundred Added: 24 With result 5604
+Prior to addition Adding: 322
+case: composite hundred Added: 24 With result 5628
+Prior to addition Adding: 323
+case: composite hundred Added: 26 With result 5654
+Prior to addition Adding: 324
+case: composite hundred Added: 25 With result 5679
+Prior to addition Adding: 325
+case: composite hundred Added: 25 With result 5704
+Prior to addition Adding: 326
+case: composite hundred Added: 24 With result 5728
+Prior to addition Adding: 327
+case: composite hundred Added: 26 With result 5754
+Prior to addition Adding: 328
+case: composite hundred Added: 26 With result 5780
+Prior to addition Adding: 329
+case: composite hundred Added: 25 With result 5805
+Prior to addition Adding: 330
+Case hundred with even ten Added: 21 With result: 5826
+Prior to addition Adding: 331
+case: composite hundred Added: 24 With result 5850
+Prior to addition Adding: 332
+case: composite hundred Added: 24 With result 5874
+Prior to addition Adding: 333
+case: composite hundred Added: 26 With result 5900
+Prior to addition Adding: 334
+case: composite hundred Added: 25 With result 5925
+Prior to addition Adding: 335
+case: composite hundred Added: 25 With result 5950
+Prior to addition Adding: 336
+case: composite hundred Added: 24 With result 5974
+Prior to addition Adding: 337
+case: composite hundred Added: 26 With result 6000
+Prior to addition Adding: 338
+case: composite hundred Added: 26 With result 6026
+Prior to addition Adding: 339
+case: composite hundred Added: 25 With result 6051
+Prior to addition Adding: 340
+Case hundred with even ten Added: 20 With result: 6071
+Prior to addition Adding: 341
+case: composite hundred Added: 23 With result 6094
+Prior to addition Adding: 342
+case: composite hundred Added: 23 With result 6117
+Prior to addition Adding: 343
+case: composite hundred Added: 25 With result 6142
+Prior to addition Adding: 344
+case: composite hundred Added: 24 With result 6166
+Prior to addition Adding: 345
+case: composite hundred Added: 24 With result 6190
+Prior to addition Adding: 346
+case: composite hundred Added: 23 With result 6213
+Prior to addition Adding: 347
+case: composite hundred Added: 25 With result 6238
+Prior to addition Adding: 348
+case: composite hundred Added: 25 With result 6263
+Prior to addition Adding: 349
+case: composite hundred Added: 24 With result 6287
+Prior to addition Adding: 350
+Case hundred with even ten Added: 20 With result: 6307
+Prior to addition Adding: 351
+case: composite hundred Added: 23 With result 6330
+Prior to addition Adding: 352
+case: composite hundred Added: 23 With result 6353
+Prior to addition Adding: 353
+case: composite hundred Added: 25 With result 6378
+Prior to addition Adding: 354
+case: composite hundred Added: 24 With result 6402
+Prior to addition Adding: 355
+case: composite hundred Added: 24 With result 6426
+Prior to addition Adding: 356
+case: composite hundred Added: 23 With result 6449
+Prior to addition Adding: 357
+case: composite hundred Added: 25 With result 6474
+Prior to addition Adding: 358
+case: composite hundred Added: 25 With result 6499
+Prior to addition Adding: 359
+case: composite hundred Added: 24 With result 6523
+Prior to addition Adding: 360
+Case hundred with even ten Added: 20 With result: 6543
+Prior to addition Adding: 361
+case: composite hundred Added: 23 With result 6566
+Prior to addition Adding: 362
+case: composite hundred Added: 23 With result 6589
+Prior to addition Adding: 363
+case: composite hundred Added: 25 With result 6614
+Prior to addition Adding: 364
+case: composite hundred Added: 24 With result 6638
+Prior to addition Adding: 365
+case: composite hundred Added: 24 With result 6662
+Prior to addition Adding: 366
+case: composite hundred Added: 23 With result 6685
+Prior to addition Adding: 367
+case: composite hundred Added: 25 With result 6710
+Prior to addition Adding: 368
+case: composite hundred Added: 25 With result 6735
+Prior to addition Adding: 369
+case: composite hundred Added: 24 With result 6759
+Prior to addition Adding: 370
+Case hundred with even ten Added: 22 With result: 6781
+Prior to addition Adding: 371
+case: composite hundred Added: 25 With result 6806
+Prior to addition Adding: 372
+case: composite hundred Added: 25 With result 6831
+Prior to addition Adding: 373
+case: composite hundred Added: 27 With result 6858
+Prior to addition Adding: 374
+case: composite hundred Added: 26 With result 6884
+Prior to addition Adding: 375
+case: composite hundred Added: 26 With result 6910
+Prior to addition Adding: 376
+case: composite hundred Added: 25 With result 6935
+Prior to addition Adding: 377
+case: composite hundred Added: 27 With result 6962
+Prior to addition Adding: 378
+case: composite hundred Added: 27 With result 6989
+Prior to addition Adding: 379
+case: composite hundred Added: 26 With result 7015
+Prior to addition Adding: 380
+Case hundred with even ten Added: 21 With result: 7036
+Prior to addition Adding: 381
+case: composite hundred Added: 24 With result 7060
+Prior to addition Adding: 382
+case: composite hundred Added: 24 With result 7084
+Prior to addition Adding: 383
+case: composite hundred Added: 26 With result 7110
+Prior to addition Adding: 384
+case: composite hundred Added: 25 With result 7135
+Prior to addition Adding: 385
+case: composite hundred Added: 25 With result 7160
+Prior to addition Adding: 386
+case: composite hundred Added: 24 With result 7184
+Prior to addition Adding: 387
+case: composite hundred Added: 26 With result 7210
+Prior to addition Adding: 388
+case: composite hundred Added: 26 With result 7236
+Prior to addition Adding: 389
+case: composite hundred Added: 25 With result 7261
+Prior to addition Adding: 390
+Case hundred with even ten Added: 21 With result: 7282
+Prior to addition Adding: 391
+case: composite hundred Added: 24 With result 7306
+Prior to addition Adding: 392
+case: composite hundred Added: 24 With result 7330
+Prior to addition Adding: 393
+case: composite hundred Added: 26 With result 7356
+Prior to addition Adding: 394
+case: composite hundred Added: 25 With result 7381
+Prior to addition Adding: 395
+case: composite hundred Added: 25 With result 7406
+Prior to addition Adding: 396
+case: composite hundred Added: 24 With result 7430
+Prior to addition Adding: 397
+case: composite hundred Added: 26 With result 7456
+Prior to addition Adding: 398
+case: composite hundred Added: 26 With result 7482
+Prior to addition Adding: 399
+case: composite hundred Added: 25 With result 7507
+Prior to addition Adding: 400
+Case: even hundred Added: 11 With result: 7518
+Prior to addition Adding: 401
+case Hundred with no tens Added: 17 With result: 7535
+Prior to addition Adding: 402
+case Hundred with no tens Added: 17 With result: 7552
+Prior to addition Adding: 403
+case Hundred with no tens Added: 19 With result: 7571
+Prior to addition Adding: 404
+case Hundred with no tens Added: 18 With result: 7589
+Prior to addition Adding: 405
+case Hundred with no tens Added: 18 With result: 7607
+Prior to addition Adding: 406
+case Hundred with no tens Added: 17 With result: 7624
+Prior to addition Adding: 407
+case Hundred with no tens Added: 19 With result: 7643
+Prior to addition Adding: 408
+case Hundred with no tens Added: 19 With result: 7662
+Prior to addition Adding: 409
+case Hundred with no tens Added: 18 With result: 7680
+Prior to addition Adding: 410
+Case hundred with even ten Added: 17 With result: 7697
+Prior to addition Adding: 411
+Case: hundred within teens Added: 20 with result 7717
+Prior to addition Adding: 412
+Case: hundred within teens Added: 20 with result 7737
+Prior to addition Adding: 413
+Case: hundred within teens Added: 22 with result 7759
+Prior to addition Adding: 414
+Case: hundred within teens Added: 22 with result 7781
+Prior to addition Adding: 415
+Case: hundred within teens Added: 21 with result 7802
+Prior to addition Adding: 416
+Case: hundred within teens Added: 21 with result 7823
+Prior to addition Adding: 417
+Case: hundred within teens Added: 23 with result 7846
+Prior to addition Adding: 418
+Case: hundred within teens Added: 22 with result 7868
+Prior to addition Adding: 419
+Case: hundred within teens Added: 22 with result 7890
+Prior to addition Adding: 420
+Case hundred with even ten Added: 20 With result: 7910
+Prior to addition Adding: 421
+case: composite hundred Added: 23 With result 7933
+Prior to addition Adding: 422
+case: composite hundred Added: 23 With result 7956
+Prior to addition Adding: 423
+case: composite hundred Added: 25 With result 7981
+Prior to addition Adding: 424
+case: composite hundred Added: 24 With result 8005
+Prior to addition Adding: 425
+case: composite hundred Added: 24 With result 8029
+Prior to addition Adding: 426
+case: composite hundred Added: 23 With result 8052
+Prior to addition Adding: 427
+case: composite hundred Added: 25 With result 8077
+Prior to addition Adding: 428
+case: composite hundred Added: 25 With result 8102
+Prior to addition Adding: 429
+case: composite hundred Added: 24 With result 8126
+Prior to addition Adding: 430
+Case hundred with even ten Added: 20 With result: 8146
+Prior to addition Adding: 431
+case: composite hundred Added: 23 With result 8169
+Prior to addition Adding: 432
+case: composite hundred Added: 23 With result 8192
+Prior to addition Adding: 433
+case: composite hundred Added: 25 With result 8217
+Prior to addition Adding: 434
+case: composite hundred Added: 24 With result 8241
+Prior to addition Adding: 435
+case: composite hundred Added: 24 With result 8265
+Prior to addition Adding: 436
+case: composite hundred Added: 23 With result 8288
+Prior to addition Adding: 437
+case: composite hundred Added: 25 With result 8313
+Prior to addition Adding: 438
+case: composite hundred Added: 25 With result 8338
+Prior to addition Adding: 439
+case: composite hundred Added: 24 With result 8362
+Prior to addition Adding: 440
+Case hundred with even ten Added: 19 With result: 8381
+Prior to addition Adding: 441
+case: composite hundred Added: 22 With result 8403
+Prior to addition Adding: 442
+case: composite hundred Added: 22 With result 8425
+Prior to addition Adding: 443
+case: composite hundred Added: 24 With result 8449
+Prior to addition Adding: 444
+case: composite hundred Added: 23 With result 8472
+Prior to addition Adding: 445
+case: composite hundred Added: 23 With result 8495
+Prior to addition Adding: 446
+case: composite hundred Added: 22 With result 8517
+Prior to addition Adding: 447
+case: composite hundred Added: 24 With result 8541
+Prior to addition Adding: 448
+case: composite hundred Added: 24 With result 8565
+Prior to addition Adding: 449
+case: composite hundred Added: 23 With result 8588
+Prior to addition Adding: 450
+Case hundred with even ten Added: 19 With result: 8607
+Prior to addition Adding: 451
+case: composite hundred Added: 22 With result 8629
+Prior to addition Adding: 452
+case: composite hundred Added: 22 With result 8651
+Prior to addition Adding: 453
+case: composite hundred Added: 24 With result 8675
+Prior to addition Adding: 454
+case: composite hundred Added: 23 With result 8698
+Prior to addition Adding: 455
+case: composite hundred Added: 23 With result 8721
+Prior to addition Adding: 456
+case: composite hundred Added: 22 With result 8743
+Prior to addition Adding: 457
+case: composite hundred Added: 24 With result 8767
+Prior to addition Adding: 458
+case: composite hundred Added: 24 With result 8791
+Prior to addition Adding: 459
+case: composite hundred Added: 23 With result 8814
+Prior to addition Adding: 460
+Case hundred with even ten Added: 19 With result: 8833
+Prior to addition Adding: 461
+case: composite hundred Added: 22 With result 8855
+Prior to addition Adding: 462
+case: composite hundred Added: 22 With result 8877
+Prior to addition Adding: 463
+case: composite hundred Added: 24 With result 8901
+Prior to addition Adding: 464
+case: composite hundred Added: 23 With result 8924
+Prior to addition Adding: 465
+case: composite hundred Added: 23 With result 8947
+Prior to addition Adding: 466
+case: composite hundred Added: 22 With result 8969
+Prior to addition Adding: 467
+case: composite hundred Added: 24 With result 8993
+Prior to addition Adding: 468
+case: composite hundred Added: 24 With result 9017
+Prior to addition Adding: 469
+case: composite hundred Added: 23 With result 9040
+Prior to addition Adding: 470
+Case hundred with even ten Added: 21 With result: 9061
+Prior to addition Adding: 471
+case: composite hundred Added: 24 With result 9085
+Prior to addition Adding: 472
+case: composite hundred Added: 24 With result 9109
+Prior to addition Adding: 473
+case: composite hundred Added: 26 With result 9135
+Prior to addition Adding: 474
+case: composite hundred Added: 25 With result 9160
+Prior to addition Adding: 475
+case: composite hundred Added: 25 With result 9185
+Prior to addition Adding: 476
+case: composite hundred Added: 24 With result 9209
+Prior to addition Adding: 477
+case: composite hundred Added: 26 With result 9235
+Prior to addition Adding: 478
+case: composite hundred Added: 26 With result 9261
+Prior to addition Adding: 479
+case: composite hundred Added: 25 With result 9286
+Prior to addition Adding: 480
+Case hundred with even ten Added: 20 With result: 9306
+Prior to addition Adding: 481
+case: composite hundred Added: 23 With result 9329
+Prior to addition Adding: 482
+case: composite hundred Added: 23 With result 9352
+Prior to addition Adding: 483
+case: composite hundred Added: 25 With result 9377
+Prior to addition Adding: 484
+case: composite hundred Added: 24 With result 9401
+Prior to addition Adding: 485
+case: composite hundred Added: 24 With result 9425
+Prior to addition Adding: 486
+case: composite hundred Added: 23 With result 9448
+Prior to addition Adding: 487
+case: composite hundred Added: 25 With result 9473
+Prior to addition Adding: 488
+case: composite hundred Added: 25 With result 9498
+Prior to addition Adding: 489
+case: composite hundred Added: 24 With result 9522
+Prior to addition Adding: 490
+Case hundred with even ten Added: 20 With result: 9542
+Prior to addition Adding: 491
+case: composite hundred Added: 23 With result 9565
+Prior to addition Adding: 492
+case: composite hundred Added: 23 With result 9588
+Prior to addition Adding: 493
+case: composite hundred Added: 25 With result 9613
+Prior to addition Adding: 494
+case: composite hundred Added: 24 With result 9637
+Prior to addition Adding: 495
+case: composite hundred Added: 24 With result 9661
+Prior to addition Adding: 496
+case: composite hundred Added: 23 With result 9684
+Prior to addition Adding: 497
+case: composite hundred Added: 25 With result 9709
+Prior to addition Adding: 498
+case: composite hundred Added: 25 With result 9734
+Prior to addition Adding: 499
+case: composite hundred Added: 24 With result 9758
+Prior to addition Adding: 500
+Case: even hundred Added: 11 With result: 9769
+Prior to addition Adding: 501
+case Hundred with no tens Added: 16 With result: 9786
+Prior to addition Adding: 502
+case Hundred with no tens Added: 16 With result: 9803
+Prior to addition Adding: 503
+case Hundred with no tens Added: 18 With result: 9822
+Prior to addition Adding: 504
+case Hundred with no tens Added: 17 With result: 9840
+Prior to addition Adding: 505
+case Hundred with no tens Added: 17 With result: 9858
+Prior to addition Adding: 506
+case Hundred with no tens Added: 16 With result: 9875
+Prior to addition Adding: 507
+case Hundred with no tens Added: 18 With result: 9894
+Prior to addition Adding: 508
+case Hundred with no tens Added: 18 With result: 9913
+Prior to addition Adding: 509
+case Hundred with no tens Added: 17 With result: 9931
+Prior to addition Adding: 510
+Case hundred with even ten Added: 17 With result: 9948
+Prior to addition Adding: 511
+Case: hundred within teens Added: 20 with result 9968
+Prior to addition Adding: 512
+Case: hundred within teens Added: 20 with result 9988
+Prior to addition Adding: 513
+Case: hundred within teens Added: 22 with result 10010
+Prior to addition Adding: 514
+Case: hundred within teens Added: 22 with result 10032
+Prior to addition Adding: 515
+Case: hundred within teens Added: 21 with result 10053
+Prior to addition Adding: 516
+Case: hundred within teens Added: 21 with result 10074
+Prior to addition Adding: 517
+Case: hundred within teens Added: 23 with result 10097
+Prior to addition Adding: 518
+Case: hundred within teens Added: 22 with result 10119
+Prior to addition Adding: 519
+Case: hundred within teens Added: 22 with result 10141
+Prior to addition Adding: 520
+Case hundred with even ten Added: 20 With result: 10161
+Prior to addition Adding: 521
+case: composite hundred Added: 23 With result 10184
+Prior to addition Adding: 522
+case: composite hundred Added: 23 With result 10207
+Prior to addition Adding: 523
+case: composite hundred Added: 25 With result 10232
+Prior to addition Adding: 524
+case: composite hundred Added: 24 With result 10256
+Prior to addition Adding: 525
+case: composite hundred Added: 24 With result 10280
+Prior to addition Adding: 526
+case: composite hundred Added: 23 With result 10303
+Prior to addition Adding: 527
+case: composite hundred Added: 25 With result 10328
+Prior to addition Adding: 528
+case: composite hundred Added: 25 With result 10353
+Prior to addition Adding: 529
+case: composite hundred Added: 24 With result 10377
+Prior to addition Adding: 530
+Case hundred with even ten Added: 20 With result: 10397
+Prior to addition Adding: 531
+case: composite hundred Added: 23 With result 10420
+Prior to addition Adding: 532
+case: composite hundred Added: 23 With result 10443
+Prior to addition Adding: 533
+case: composite hundred Added: 25 With result 10468
+Prior to addition Adding: 534
+case: composite hundred Added: 24 With result 10492
+Prior to addition Adding: 535
+case: composite hundred Added: 24 With result 10516
+Prior to addition Adding: 536
+case: composite hundred Added: 23 With result 10539
+Prior to addition Adding: 537
+case: composite hundred Added: 25 With result 10564
+Prior to addition Adding: 538
+case: composite hundred Added: 25 With result 10589
+Prior to addition Adding: 539
+case: composite hundred Added: 24 With result 10613
+Prior to addition Adding: 540
+Case hundred with even ten Added: 19 With result: 10632
+Prior to addition Adding: 541
+case: composite hundred Added: 22 With result 10654
+Prior to addition Adding: 542
+case: composite hundred Added: 22 With result 10676
+Prior to addition Adding: 543
+case: composite hundred Added: 24 With result 10700
+Prior to addition Adding: 544
+case: composite hundred Added: 23 With result 10723
+Prior to addition Adding: 545
+case: composite hundred Added: 23 With result 10746
+Prior to addition Adding: 546
+case: composite hundred Added: 22 With result 10768
+Prior to addition Adding: 547
+case: composite hundred Added: 24 With result 10792
+Prior to addition Adding: 548
+case: composite hundred Added: 24 With result 10816
+Prior to addition Adding: 549
+case: composite hundred Added: 23 With result 10839
+Prior to addition Adding: 550
+Case hundred with even ten Added: 19 With result: 10858
+Prior to addition Adding: 551
+case: composite hundred Added: 22 With result 10880
+Prior to addition Adding: 552
+case: composite hundred Added: 22 With result 10902
+Prior to addition Adding: 553
+case: composite hundred Added: 24 With result 10926
+Prior to addition Adding: 554
+case: composite hundred Added: 23 With result 10949
+Prior to addition Adding: 555
+case: composite hundred Added: 23 With result 10972
+Prior to addition Adding: 556
+case: composite hundred Added: 22 With result 10994
+Prior to addition Adding: 557
+case: composite hundred Added: 24 With result 11018
+Prior to addition Adding: 558
+case: composite hundred Added: 24 With result 11042
+Prior to addition Adding: 559
+case: composite hundred Added: 23 With result 11065
+Prior to addition Adding: 560
+Case hundred with even ten Added: 19 With result: 11084
+Prior to addition Adding: 561
+case: composite hundred Added: 22 With result 11106
+Prior to addition Adding: 562
+case: composite hundred Added: 22 With result 11128
+Prior to addition Adding: 563
+case: composite hundred Added: 24 With result 11152
+Prior to addition Adding: 564
+case: composite hundred Added: 23 With result 11175
+Prior to addition Adding: 565
+case: composite hundred Added: 23 With result 11198
+Prior to addition Adding: 566
+case: composite hundred Added: 22 With result 11220
+Prior to addition Adding: 567
+case: composite hundred Added: 24 With result 11244
+Prior to addition Adding: 568
+case: composite hundred Added: 24 With result 11268
+Prior to addition Adding: 569
+case: composite hundred Added: 23 With result 11291
+Prior to addition Adding: 570
+Case hundred with even ten Added: 21 With result: 11312
+Prior to addition Adding: 571
+case: composite hundred Added: 24 With result 11336
+Prior to addition Adding: 572
+case: composite hundred Added: 24 With result 11360
+Prior to addition Adding: 573
+case: composite hundred Added: 26 With result 11386
+Prior to addition Adding: 574
+case: composite hundred Added: 25 With result 11411
+Prior to addition Adding: 575
+case: composite hundred Added: 25 With result 11436
+Prior to addition Adding: 576
+case: composite hundred Added: 24 With result 11460
+Prior to addition Adding: 577
+case: composite hundred Added: 26 With result 11486
+Prior to addition Adding: 578
+case: composite hundred Added: 26 With result 11512
+Prior to addition Adding: 579
+case: composite hundred Added: 25 With result 11537
+Prior to addition Adding: 580
+Case hundred with even ten Added: 20 With result: 11557
+Prior to addition Adding: 581
+case: composite hundred Added: 23 With result 11580
+Prior to addition Adding: 582
+case: composite hundred Added: 23 With result 11603
+Prior to addition Adding: 583
+case: composite hundred Added: 25 With result 11628
+Prior to addition Adding: 584
+case: composite hundred Added: 24 With result 11652
+Prior to addition Adding: 585
+case: composite hundred Added: 24 With result 11676
+Prior to addition Adding: 586
+case: composite hundred Added: 23 With result 11699
+Prior to addition Adding: 587
+case: composite hundred Added: 25 With result 11724
+Prior to addition Adding: 588
+case: composite hundred Added: 25 With result 11749
+Prior to addition Adding: 589
+case: composite hundred Added: 24 With result 11773
+Prior to addition Adding: 590
+Case hundred with even ten Added: 20 With result: 11793
+Prior to addition Adding: 591
+case: composite hundred Added: 23 With result 11816
+Prior to addition Adding: 592
+case: composite hundred Added: 23 With result 11839
+Prior to addition Adding: 593
+case: composite hundred Added: 25 With result 11864
+Prior to addition Adding: 594
+case: composite hundred Added: 24 With result 11888
+Prior to addition Adding: 595
+case: composite hundred Added: 24 With result 11912
+Prior to addition Adding: 596
+case: composite hundred Added: 23 With result 11935
+Prior to addition Adding: 597
+case: composite hundred Added: 25 With result 11960
+Prior to addition Adding: 598
+case: composite hundred Added: 25 With result 11985
+Prior to addition Adding: 599
+case: composite hundred Added: 24 With result 12009
+Prior to addition Adding: 600
+Case: even hundred Added: 10 With result: 12019
+Prior to addition Adding: 601
+case Hundred with no tens Added: 18 With result: 12035
+Prior to addition Adding: 602
+case Hundred with no tens Added: 18 With result: 12051
+Prior to addition Adding: 603
+case Hundred with no tens Added: 20 With result: 12069
+Prior to addition Adding: 604
+case Hundred with no tens Added: 19 With result: 12086
+Prior to addition Adding: 605
+case Hundred with no tens Added: 19 With result: 12103
+Prior to addition Adding: 606
+case Hundred with no tens Added: 18 With result: 12119
+Prior to addition Adding: 607
+case Hundred with no tens Added: 20 With result: 12137
+Prior to addition Adding: 608
+case Hundred with no tens Added: 20 With result: 12155
+Prior to addition Adding: 609
+case Hundred with no tens Added: 19 With result: 12172
+Prior to addition Adding: 610
+Case hundred with even ten Added: 16 With result: 12188
+Prior to addition Adding: 611
+Case: hundred within teens Added: 19 with result 12207
+Prior to addition Adding: 612
+Case: hundred within teens Added: 19 with result 12226
+Prior to addition Adding: 613
+Case: hundred within teens Added: 21 with result 12247
+Prior to addition Adding: 614
+Case: hundred within teens Added: 21 with result 12268
+Prior to addition Adding: 615
+Case: hundred within teens Added: 20 with result 12288
+Prior to addition Adding: 616
+Case: hundred within teens Added: 20 with result 12308
+Prior to addition Adding: 617
+Case: hundred within teens Added: 22 with result 12330
+Prior to addition Adding: 618
+Case: hundred within teens Added: 21 with result 12351
+Prior to addition Adding: 619
+Case: hundred within teens Added: 21 with result 12372
+Prior to addition Adding: 620
+Case hundred with even ten Added: 19 With result: 12391
+Prior to addition Adding: 621
+case: composite hundred Added: 22 With result 12413
+Prior to addition Adding: 622
+case: composite hundred Added: 22 With result 12435
+Prior to addition Adding: 623
+case: composite hundred Added: 24 With result 12459
+Prior to addition Adding: 624
+case: composite hundred Added: 23 With result 12482
+Prior to addition Adding: 625
+case: composite hundred Added: 23 With result 12505
+Prior to addition Adding: 626
+case: composite hundred Added: 22 With result 12527
+Prior to addition Adding: 627
+case: composite hundred Added: 24 With result 12551
+Prior to addition Adding: 628
+case: composite hundred Added: 24 With result 12575
+Prior to addition Adding: 629
+case: composite hundred Added: 23 With result 12598
+Prior to addition Adding: 630
+Case hundred with even ten Added: 19 With result: 12617
+Prior to addition Adding: 631
+case: composite hundred Added: 22 With result 12639
+Prior to addition Adding: 632
+case: composite hundred Added: 22 With result 12661
+Prior to addition Adding: 633
+case: composite hundred Added: 24 With result 12685
+Prior to addition Adding: 634
+case: composite hundred Added: 23 With result 12708
+Prior to addition Adding: 635
+case: composite hundred Added: 23 With result 12731
+Prior to addition Adding: 636
+case: composite hundred Added: 22 With result 12753
+Prior to addition Adding: 637
+case: composite hundred Added: 24 With result 12777
+Prior to addition Adding: 638
+case: composite hundred Added: 24 With result 12801
+Prior to addition Adding: 639
+case: composite hundred Added: 23 With result 12824
+Prior to addition Adding: 640
+Case hundred with even ten Added: 18 With result: 12842
+Prior to addition Adding: 641
+case: composite hundred Added: 21 With result 12863
+Prior to addition Adding: 642
+case: composite hundred Added: 21 With result 12884
+Prior to addition Adding: 643
+case: composite hundred Added: 23 With result 12907
+Prior to addition Adding: 644
+case: composite hundred Added: 22 With result 12929
+Prior to addition Adding: 645
+case: composite hundred Added: 22 With result 12951
+Prior to addition Adding: 646
+case: composite hundred Added: 21 With result 12972
+Prior to addition Adding: 647
+case: composite hundred Added: 23 With result 12995
+Prior to addition Adding: 648
+case: composite hundred Added: 23 With result 13018
+Prior to addition Adding: 649
+case: composite hundred Added: 22 With result 13040
+Prior to addition Adding: 650
+Case hundred with even ten Added: 18 With result: 13058
+Prior to addition Adding: 651
+case: composite hundred Added: 21 With result 13079
+Prior to addition Adding: 652
+case: composite hundred Added: 21 With result 13100
+Prior to addition Adding: 653
+case: composite hundred Added: 23 With result 13123
+Prior to addition Adding: 654
+case: composite hundred Added: 22 With result 13145
+Prior to addition Adding: 655
+case: composite hundred Added: 22 With result 13167
+Prior to addition Adding: 656
+case: composite hundred Added: 21 With result 13188
+Prior to addition Adding: 657
+case: composite hundred Added: 23 With result 13211
+Prior to addition Adding: 658
+case: composite hundred Added: 23 With result 13234
+Prior to addition Adding: 659
+case: composite hundred Added: 22 With result 13256
+Prior to addition Adding: 660
+Case hundred with even ten Added: 18 With result: 13274
+Prior to addition Adding: 661
+case: composite hundred Added: 21 With result 13295
+Prior to addition Adding: 662
+case: composite hundred Added: 21 With result 13316
+Prior to addition Adding: 663
+case: composite hundred Added: 23 With result 13339
+Prior to addition Adding: 664
+case: composite hundred Added: 22 With result 13361
+Prior to addition Adding: 665
+case: composite hundred Added: 22 With result 13383
+Prior to addition Adding: 666
+case: composite hundred Added: 21 With result 13404
+Prior to addition Adding: 667
+case: composite hundred Added: 23 With result 13427
+Prior to addition Adding: 668
+case: composite hundred Added: 23 With result 13450
+Prior to addition Adding: 669
+case: composite hundred Added: 22 With result 13472
+Prior to addition Adding: 670
+Case hundred with even ten Added: 20 With result: 13492
+Prior to addition Adding: 671
+case: composite hundred Added: 23 With result 13515
+Prior to addition Adding: 672
+case: composite hundred Added: 23 With result 13538
+Prior to addition Adding: 673
+case: composite hundred Added: 25 With result 13563
+Prior to addition Adding: 674
+case: composite hundred Added: 24 With result 13587
+Prior to addition Adding: 675
+case: composite hundred Added: 24 With result 13611
+Prior to addition Adding: 676
+case: composite hundred Added: 23 With result 13634
+Prior to addition Adding: 677
+case: composite hundred Added: 25 With result 13659
+Prior to addition Adding: 678
+case: composite hundred Added: 25 With result 13684
+Prior to addition Adding: 679
+case: composite hundred Added: 24 With result 13708
+Prior to addition Adding: 680
+Case hundred with even ten Added: 19 With result: 13727
+Prior to addition Adding: 681
+case: composite hundred Added: 22 With result 13749
+Prior to addition Adding: 682
+case: composite hundred Added: 22 With result 13771
+Prior to addition Adding: 683
+case: composite hundred Added: 24 With result 13795
+Prior to addition Adding: 684
+case: composite hundred Added: 23 With result 13818
+Prior to addition Adding: 685
+case: composite hundred Added: 23 With result 13841
+Prior to addition Adding: 686
+case: composite hundred Added: 22 With result 13863
+Prior to addition Adding: 687
+case: composite hundred Added: 24 With result 13887
+Prior to addition Adding: 688
+case: composite hundred Added: 24 With result 13911
+Prior to addition Adding: 689
+case: composite hundred Added: 23 With result 13934
+Prior to addition Adding: 690
+Case hundred with even ten Added: 19 With result: 13953
+Prior to addition Adding: 691
+case: composite hundred Added: 22 With result 13975
+Prior to addition Adding: 692
+case: composite hundred Added: 22 With result 13997
+Prior to addition Adding: 693
+case: composite hundred Added: 24 With result 14021
+Prior to addition Adding: 694
+case: composite hundred Added: 23 With result 14044
+Prior to addition Adding: 695
+case: composite hundred Added: 23 With result 14067
+Prior to addition Adding: 696
+case: composite hundred Added: 22 With result 14089
+Prior to addition Adding: 697
+case: composite hundred Added: 24 With result 14113
+Prior to addition Adding: 698
+case: composite hundred Added: 24 With result 14137
+Prior to addition Adding: 699
+case: composite hundred Added: 23 With result 14160
+Prior to addition Adding: 700
+Case: even hundred Added: 12 With result: 14172
+Prior to addition Adding: 701
+case Hundred with no tens Added: 18 With result: 14190
+Prior to addition Adding: 702
+case Hundred with no tens Added: 18 With result: 14208
+Prior to addition Adding: 703
+case Hundred with no tens Added: 20 With result: 14228
+Prior to addition Adding: 704
+case Hundred with no tens Added: 19 With result: 14247
+Prior to addition Adding: 705
+case Hundred with no tens Added: 19 With result: 14266
+Prior to addition Adding: 706
+case Hundred with no tens Added: 18 With result: 14284
+Prior to addition Adding: 707
+case Hundred with no tens Added: 20 With result: 14304
+Prior to addition Adding: 708
+case Hundred with no tens Added: 20 With result: 14324
+Prior to addition Adding: 709
+case Hundred with no tens Added: 19 With result: 14343
+Prior to addition Adding: 710
+Case hundred with even ten Added: 18 With result: 14361
+Prior to addition Adding: 711
+Case: hundred within teens Added: 21 with result 14382
+Prior to addition Adding: 712
+Case: hundred within teens Added: 21 with result 14403
+Prior to addition Adding: 713
+Case: hundred within teens Added: 23 with result 14426
+Prior to addition Adding: 714
+Case: hundred within teens Added: 23 with result 14449
+Prior to addition Adding: 715
+Case: hundred within teens Added: 22 with result 14471
+Prior to addition Adding: 716
+Case: hundred within teens Added: 22 with result 14493
+Prior to addition Adding: 717
+Case: hundred within teens Added: 24 with result 14517
+Prior to addition Adding: 718
+Case: hundred within teens Added: 23 with result 14540
+Prior to addition Adding: 719
+Case: hundred within teens Added: 23 with result 14563
+Prior to addition Adding: 720
+Case hundred with even ten Added: 21 With result: 14584
+Prior to addition Adding: 721
+case: composite hundred Added: 24 With result 14608
+Prior to addition Adding: 722
+case: composite hundred Added: 24 With result 14632
+Prior to addition Adding: 723
+case: composite hundred Added: 26 With result 14658
+Prior to addition Adding: 724
+case: composite hundred Added: 25 With result 14683
+Prior to addition Adding: 725
+case: composite hundred Added: 25 With result 14708
+Prior to addition Adding: 726
+case: composite hundred Added: 24 With result 14732
+Prior to addition Adding: 727
+case: composite hundred Added: 26 With result 14758
+Prior to addition Adding: 728
+case: composite hundred Added: 26 With result 14784
+Prior to addition Adding: 729
+case: composite hundred Added: 25 With result 14809
+Prior to addition Adding: 730
+Case hundred with even ten Added: 21 With result: 14830
+Prior to addition Adding: 731
+case: composite hundred Added: 24 With result 14854
+Prior to addition Adding: 732
+case: composite hundred Added: 24 With result 14878
+Prior to addition Adding: 733
+case: composite hundred Added: 26 With result 14904
+Prior to addition Adding: 734
+case: composite hundred Added: 25 With result 14929
+Prior to addition Adding: 735
+case: composite hundred Added: 25 With result 14954
+Prior to addition Adding: 736
+case: composite hundred Added: 24 With result 14978
+Prior to addition Adding: 737
+case: composite hundred Added: 26 With result 15004
+Prior to addition Adding: 738
+case: composite hundred Added: 26 With result 15030
+Prior to addition Adding: 739
+case: composite hundred Added: 25 With result 15055
+Prior to addition Adding: 740
+Case hundred with even ten Added: 20 With result: 15075
+Prior to addition Adding: 741
+case: composite hundred Added: 23 With result 15098
+Prior to addition Adding: 742
+case: composite hundred Added: 23 With result 15121
+Prior to addition Adding: 743
+case: composite hundred Added: 25 With result 15146
+Prior to addition Adding: 744
+case: composite hundred Added: 24 With result 15170
+Prior to addition Adding: 745
+case: composite hundred Added: 24 With result 15194
+Prior to addition Adding: 746
+case: composite hundred Added: 23 With result 15217
+Prior to addition Adding: 747
+case: composite hundred Added: 25 With result 15242
+Prior to addition Adding: 748
+case: composite hundred Added: 25 With result 15267
+Prior to addition Adding: 749
+case: composite hundred Added: 24 With result 15291
+Prior to addition Adding: 750
+Case hundred with even ten Added: 20 With result: 15311
+Prior to addition Adding: 751
+case: composite hundred Added: 23 With result 15334
+Prior to addition Adding: 752
+case: composite hundred Added: 23 With result 15357
+Prior to addition Adding: 753
+case: composite hundred Added: 25 With result 15382
+Prior to addition Adding: 754
+case: composite hundred Added: 24 With result 15406
+Prior to addition Adding: 755
+case: composite hundred Added: 24 With result 15430
+Prior to addition Adding: 756
+case: composite hundred Added: 23 With result 15453
+Prior to addition Adding: 757
+case: composite hundred Added: 25 With result 15478
+Prior to addition Adding: 758
+case: composite hundred Added: 25 With result 15503
+Prior to addition Adding: 759
+case: composite hundred Added: 24 With result 15527
+Prior to addition Adding: 760
+Case hundred with even ten Added: 20 With result: 15547
+Prior to addition Adding: 761
+case: composite hundred Added: 23 With result 15570
+Prior to addition Adding: 762
+case: composite hundred Added: 23 With result 15593
+Prior to addition Adding: 763
+case: composite hundred Added: 25 With result 15618
+Prior to addition Adding: 764
+case: composite hundred Added: 24 With result 15642
+Prior to addition Adding: 765
+case: composite hundred Added: 24 With result 15666
+Prior to addition Adding: 766
+case: composite hundred Added: 23 With result 15689
+Prior to addition Adding: 767
+case: composite hundred Added: 25 With result 15714
+Prior to addition Adding: 768
+case: composite hundred Added: 25 With result 15739
+Prior to addition Adding: 769
+case: composite hundred Added: 24 With result 15763
+Prior to addition Adding: 770
+Case hundred with even ten Added: 22 With result: 15785
+Prior to addition Adding: 771
+case: composite hundred Added: 25 With result 15810
+Prior to addition Adding: 772
+case: composite hundred Added: 25 With result 15835
+Prior to addition Adding: 773
+case: composite hundred Added: 27 With result 15862
+Prior to addition Adding: 774
+case: composite hundred Added: 26 With result 15888
+Prior to addition Adding: 775
+case: composite hundred Added: 26 With result 15914
+Prior to addition Adding: 776
+case: composite hundred Added: 25 With result 15939
+Prior to addition Adding: 777
+case: composite hundred Added: 27 With result 15966
+Prior to addition Adding: 778
+case: composite hundred Added: 27 With result 15993
+Prior to addition Adding: 779
+case: composite hundred Added: 26 With result 16019
+Prior to addition Adding: 780
+Case hundred with even ten Added: 21 With result: 16040
+Prior to addition Adding: 781
+case: composite hundred Added: 24 With result 16064
+Prior to addition Adding: 782
+case: composite hundred Added: 24 With result 16088
+Prior to addition Adding: 783
+case: composite hundred Added: 26 With result 16114
+Prior to addition Adding: 784
+case: composite hundred Added: 25 With result 16139
+Prior to addition Adding: 785
+case: composite hundred Added: 25 With result 16164
+Prior to addition Adding: 786
+case: composite hundred Added: 24 With result 16188
+Prior to addition Adding: 787
+case: composite hundred Added: 26 With result 16214
+Prior to addition Adding: 788
+case: composite hundred Added: 26 With result 16240
+Prior to addition Adding: 789
+case: composite hundred Added: 25 With result 16265
+Prior to addition Adding: 790
+Case hundred with even ten Added: 21 With result: 16286
+Prior to addition Adding: 791
+case: composite hundred Added: 24 With result 16310
+Prior to addition Adding: 792
+case: composite hundred Added: 24 With result 16334
+Prior to addition Adding: 793
+case: composite hundred Added: 26 With result 16360
+Prior to addition Adding: 794
+case: composite hundred Added: 25 With result 16385
+Prior to addition Adding: 795
+case: composite hundred Added: 25 With result 16410
+Prior to addition Adding: 796
+case: composite hundred Added: 24 With result 16434
+Prior to addition Adding: 797
+case: composite hundred Added: 26 With result 16460
+Prior to addition Adding: 798
+case: composite hundred Added: 26 With result 16486
+Prior to addition Adding: 799
+case: composite hundred Added: 25 With result 16511
+Prior to addition Adding: 800
+Case: even hundred Added: 12 With result: 16523
+Prior to addition Adding: 801
+case Hundred with no tens Added: 17 With result: 16541
+Prior to addition Adding: 802
+case Hundred with no tens Added: 17 With result: 16559
+Prior to addition Adding: 803
+case Hundred with no tens Added: 19 With result: 16579
+Prior to addition Adding: 804
+case Hundred with no tens Added: 18 With result: 16598
+Prior to addition Adding: 805
+case Hundred with no tens Added: 18 With result: 16617
+Prior to addition Adding: 806
+case Hundred with no tens Added: 17 With result: 16635
+Prior to addition Adding: 807
+case Hundred with no tens Added: 19 With result: 16655
+Prior to addition Adding: 808
+case Hundred with no tens Added: 19 With result: 16675
+Prior to addition Adding: 809
+case Hundred with no tens Added: 18 With result: 16694
+Prior to addition Adding: 810
+Case hundred with even ten Added: 18 With result: 16712
+Prior to addition Adding: 811
+Case: hundred within teens Added: 21 with result 16733
+Prior to addition Adding: 812
+Case: hundred within teens Added: 21 with result 16754
+Prior to addition Adding: 813
+Case: hundred within teens Added: 23 with result 16777
+Prior to addition Adding: 814
+Case: hundred within teens Added: 23 with result 16800
+Prior to addition Adding: 815
+Case: hundred within teens Added: 22 with result 16822
+Prior to addition Adding: 816
+Case: hundred within teens Added: 22 with result 16844
+Prior to addition Adding: 817
+Case: hundred within teens Added: 24 with result 16868
+Prior to addition Adding: 818
+Case: hundred within teens Added: 23 with result 16891
+Prior to addition Adding: 819
+Case: hundred within teens Added: 23 with result 16914
+Prior to addition Adding: 820
+Case hundred with even ten Added: 21 With result: 16935
+Prior to addition Adding: 821
+case: composite hundred Added: 24 With result 16959
+Prior to addition Adding: 822
+case: composite hundred Added: 24 With result 16983
+Prior to addition Adding: 823
+case: composite hundred Added: 26 With result 17009
+Prior to addition Adding: 824
+case: composite hundred Added: 25 With result 17034
+Prior to addition Adding: 825
+case: composite hundred Added: 25 With result 17059
+Prior to addition Adding: 826
+case: composite hundred Added: 24 With result 17083
+Prior to addition Adding: 827
+case: composite hundred Added: 26 With result 17109
+Prior to addition Adding: 828
+case: composite hundred Added: 26 With result 17135
+Prior to addition Adding: 829
+case: composite hundred Added: 25 With result 17160
+Prior to addition Adding: 830
+Case hundred with even ten Added: 21 With result: 17181
+Prior to addition Adding: 831
+case: composite hundred Added: 24 With result 17205
+Prior to addition Adding: 832
+case: composite hundred Added: 24 With result 17229
+Prior to addition Adding: 833
+case: composite hundred Added: 26 With result 17255
+Prior to addition Adding: 834
+case: composite hundred Added: 25 With result 17280
+Prior to addition Adding: 835
+case: composite hundred Added: 25 With result 17305
+Prior to addition Adding: 836
+case: composite hundred Added: 24 With result 17329
+Prior to addition Adding: 837
+case: composite hundred Added: 26 With result 17355
+Prior to addition Adding: 838
+case: composite hundred Added: 26 With result 17381
+Prior to addition Adding: 839
+case: composite hundred Added: 25 With result 17406
+Prior to addition Adding: 840
+Case hundred with even ten Added: 20 With result: 17426
+Prior to addition Adding: 841
+case: composite hundred Added: 23 With result 17449
+Prior to addition Adding: 842
+case: composite hundred Added: 23 With result 17472
+Prior to addition Adding: 843
+case: composite hundred Added: 25 With result 17497
+Prior to addition Adding: 844
+case: composite hundred Added: 24 With result 17521
+Prior to addition Adding: 845
+case: composite hundred Added: 24 With result 17545
+Prior to addition Adding: 846
+case: composite hundred Added: 23 With result 17568
+Prior to addition Adding: 847
+case: composite hundred Added: 25 With result 17593
+Prior to addition Adding: 848
+case: composite hundred Added: 25 With result 17618
+Prior to addition Adding: 849
+case: composite hundred Added: 24 With result 17642
+Prior to addition Adding: 850
+Case hundred with even ten Added: 20 With result: 17662
+Prior to addition Adding: 851
+case: composite hundred Added: 23 With result 17685
+Prior to addition Adding: 852
+case: composite hundred Added: 23 With result 17708
+Prior to addition Adding: 853
+case: composite hundred Added: 25 With result 17733
+Prior to addition Adding: 854
+case: composite hundred Added: 24 With result 17757
+Prior to addition Adding: 855
+case: composite hundred Added: 24 With result 17781
+Prior to addition Adding: 856
+case: composite hundred Added: 23 With result 17804
+Prior to addition Adding: 857
+case: composite hundred Added: 25 With result 17829
+Prior to addition Adding: 858
+case: composite hundred Added: 25 With result 17854
+Prior to addition Adding: 859
+case: composite hundred Added: 24 With result 17878
+Prior to addition Adding: 860
+Case hundred with even ten Added: 20 With result: 17898
+Prior to addition Adding: 861
+case: composite hundred Added: 23 With result 17921
+Prior to addition Adding: 862
+case: composite hundred Added: 23 With result 17944
+Prior to addition Adding: 863
+case: composite hundred Added: 25 With result 17969
+Prior to addition Adding: 864
+case: composite hundred Added: 24 With result 17993
+Prior to addition Adding: 865
+case: composite hundred Added: 24 With result 18017
+Prior to addition Adding: 866
+case: composite hundred Added: 23 With result 18040
+Prior to addition Adding: 867
+case: composite hundred Added: 25 With result 18065
+Prior to addition Adding: 868
+case: composite hundred Added: 25 With result 18090
+Prior to addition Adding: 869
+case: composite hundred Added: 24 With result 18114
+Prior to addition Adding: 870
+Case hundred with even ten Added: 22 With result: 18136
+Prior to addition Adding: 871
+case: composite hundred Added: 25 With result 18161
+Prior to addition Adding: 872
+case: composite hundred Added: 25 With result 18186
+Prior to addition Adding: 873
+case: composite hundred Added: 27 With result 18213
+Prior to addition Adding: 874
+case: composite hundred Added: 26 With result 18239
+Prior to addition Adding: 875
+case: composite hundred Added: 26 With result 18265
+Prior to addition Adding: 876
+case: composite hundred Added: 25 With result 18290
+Prior to addition Adding: 877
+case: composite hundred Added: 27 With result 18317
+Prior to addition Adding: 878
+case: composite hundred Added: 27 With result 18344
+Prior to addition Adding: 879
+case: composite hundred Added: 26 With result 18370
+Prior to addition Adding: 880
+Case hundred with even ten Added: 21 With result: 18391
+Prior to addition Adding: 881
+case: composite hundred Added: 24 With result 18415
+Prior to addition Adding: 882
+case: composite hundred Added: 24 With result 18439
+Prior to addition Adding: 883
+case: composite hundred Added: 26 With result 18465
+Prior to addition Adding: 884
+case: composite hundred Added: 25 With result 18490
+Prior to addition Adding: 885
+case: composite hundred Added: 25 With result 18515
+Prior to addition Adding: 886
+case: composite hundred Added: 24 With result 18539
+Prior to addition Adding: 887
+case: composite hundred Added: 26 With result 18565
+Prior to addition Adding: 888
+case: composite hundred Added: 26 With result 18591
+Prior to addition Adding: 889
+case: composite hundred Added: 25 With result 18616
+Prior to addition Adding: 890
+Case hundred with even ten Added: 21 With result: 18637
+Prior to addition Adding: 891
+case: composite hundred Added: 24 With result 18661
+Prior to addition Adding: 892
+case: composite hundred Added: 24 With result 18685
+Prior to addition Adding: 893
+case: composite hundred Added: 26 With result 18711
+Prior to addition Adding: 894
+case: composite hundred Added: 25 With result 18736
+Prior to addition Adding: 895
+case: composite hundred Added: 25 With result 18761
+Prior to addition Adding: 896
+case: composite hundred Added: 24 With result 18785
+Prior to addition Adding: 897
+case: composite hundred Added: 26 With result 18811
+Prior to addition Adding: 898
+case: composite hundred Added: 26 With result 18837
+Prior to addition Adding: 899
+case: composite hundred Added: 25 With result 18862
+Prior to addition Adding: 900
+Case: even hundred Added: 11 With result: 18873
+Prior to addition Adding: 901
+case Hundred with no tens Added: 4669234 With result: 18890
+Prior to addition Adding: 902
+case Hundred with no tens Added: 4669234 With result: 18907
+Prior to addition Adding: 903
+case Hundred with no tens Added: 4669236 With result: 18926
+Prior to addition Adding: 904
+case Hundred with no tens Added: 4669235 With result: 18944
+Prior to addition Adding: 905
+case Hundred with no tens Added: 4669235 With result: 18962
+Prior to addition Adding: 906
+case Hundred with no tens Added: 4669234 With result: 18979
+Prior to addition Adding: 907
+case Hundred with no tens Added: 4669236 With result: 18998
+Prior to addition Adding: 908
+case Hundred with no tens Added: 4669236 With result: 19017
+Prior to addition Adding: 909
+case Hundred with no tens Added: 4669235 With result: 19035
+Prior to addition Adding: 910
+Case hundred with even ten Added: 17 With result: 19052
+Prior to addition Adding: 911
+Case: hundred within teens Added: 20 with result 19072
+Prior to addition Adding: 912
+Case: hundred within teens Added: 20 with result 19092
+Prior to addition Adding: 913
+Case: hundred within teens Added: 22 with result 19114
+Prior to addition Adding: 914
+Case: hundred within teens Added: 22 with result 19136
+Prior to addition Adding: 915
+Case: hundred within teens Added: 21 with result 19157
+Prior to addition Adding: 916
+Case: hundred within teens Added: 21 with result 19178
+Prior to addition Adding: 917
+Case: hundred within teens Added: 23 with result 19201
+Prior to addition Adding: 918
+Case: hundred within teens Added: 22 with result 19223
+Prior to addition Adding: 919
+Case: hundred within teens Added: 22 with result 19245
+Prior to addition Adding: 920
+Case hundred with even ten Added: 20 With result: 19265
+Prior to addition Adding: 921
+case: composite hundred Added: 23 With result 19288
+Prior to addition Adding: 922
+case: composite hundred Added: 23 With result 19311
+Prior to addition Adding: 923
+case: composite hundred Added: 25 With result 19336
+Prior to addition Adding: 924
+case: composite hundred Added: 24 With result 19360
+Prior to addition Adding: 925
+case: composite hundred Added: 24 With result 19384
+Prior to addition Adding: 926
+case: composite hundred Added: 23 With result 19407
+Prior to addition Adding: 927
+case: composite hundred Added: 25 With result 19432
+Prior to addition Adding: 928
+case: composite hundred Added: 25 With result 19457
+Prior to addition Adding: 929
+case: composite hundred Added: 24 With result 19481
+Prior to addition Adding: 930
+Case hundred with even ten Added: 20 With result: 19501
+Prior to addition Adding: 931
+case: composite hundred Added: 23 With result 19524
+Prior to addition Adding: 932
+case: composite hundred Added: 23 With result 19547
+Prior to addition Adding: 933
+case: composite hundred Added: 25 With result 19572
+Prior to addition Adding: 934
+case: composite hundred Added: 24 With result 19596
+Prior to addition Adding: 935
+case: composite hundred Added: 24 With result 19620
+Prior to addition Adding: 936
+case: composite hundred Added: 23 With result 19643
+Prior to addition Adding: 937
+case: composite hundred Added: 25 With result 19668
+Prior to addition Adding: 938
+case: composite hundred Added: 25 With result 19693
+Prior to addition Adding: 939
+case: composite hundred Added: 24 With result 19717
+Prior to addition Adding: 940
+Case hundred with even ten Added: 19 With result: 19736
+Prior to addition Adding: 941
+case: composite hundred Added: 22 With result 19758
+Prior to addition Adding: 942
+case: composite hundred Added: 22 With result 19780
+Prior to addition Adding: 943
+case: composite hundred Added: 24 With result 19804
+Prior to addition Adding: 944
+case: composite hundred Added: 23 With result 19827
+Prior to addition Adding: 945
+case: composite hundred Added: 23 With result 19850
+Prior to addition Adding: 946
+case: composite hundred Added: 22 With result 19872
+Prior to addition Adding: 947
+case: composite hundred Added: 24 With result 19896
+Prior to addition Adding: 948
+case: composite hundred Added: 24 With result 19920
+Prior to addition Adding: 949
+case: composite hundred Added: 23 With result 19943
+Prior to addition Adding: 950
+Case hundred with even ten Added: 19 With result: 19962
+Prior to addition Adding: 951
+case: composite hundred Added: 22 With result 19984
+Prior to addition Adding: 952
+case: composite hundred Added: 22 With result 20006
+Prior to addition Adding: 953
+case: composite hundred Added: 24 With result 20030
+Prior to addition Adding: 954
+case: composite hundred Added: 23 With result 20053
+Prior to addition Adding: 955
+case: composite hundred Added: 23 With result 20076
+Prior to addition Adding: 956
+case: composite hundred Added: 22 With result 20098
+Prior to addition Adding: 957
+case: composite hundred Added: 24 With result 20122
+Prior to addition Adding: 958
+case: composite hundred Added: 24 With result 20146
+Prior to addition Adding: 959
+case: composite hundred Added: 23 With result 20169
+Prior to addition Adding: 960
+Case hundred with even ten Added: 19 With result: 20188
+Prior to addition Adding: 961
+case: composite hundred Added: 22 With result 20210
+Prior to addition Adding: 962
+case: composite hundred Added: 22 With result 20232
+Prior to addition Adding: 963
+case: composite hundred Added: 24 With result 20256
+Prior to addition Adding: 964
+case: composite hundred Added: 23 With result 20279
+Prior to addition Adding: 965
+case: composite hundred Added: 23 With result 20302
+Prior to addition Adding: 966
+case: composite hundred Added: 22 With result 20324
+Prior to addition Adding: 967
+case: composite hundred Added: 24 With result 20348
+Prior to addition Adding: 968
+case: composite hundred Added: 24 With result 20372
+Prior to addition Adding: 969
+case: composite hundred Added: 23 With result 20395
+Prior to addition Adding: 970
+Case hundred with even ten Added: 21 With result: 20416
+Prior to addition Adding: 971
+case: composite hundred Added: 24 With result 20440
+Prior to addition Adding: 972
+case: composite hundred Added: 24 With result 20464
+Prior to addition Adding: 973
+case: composite hundred Added: 26 With result 20490
+Prior to addition Adding: 974
+case: composite hundred Added: 25 With result 20515
+Prior to addition Adding: 975
+case: composite hundred Added: 25 With result 20540
+Prior to addition Adding: 976
+case: composite hundred Added: 24 With result 20564
+Prior to addition Adding: 977
+case: composite hundred Added: 26 With result 20590
+Prior to addition Adding: 978
+case: composite hundred Added: 26 With result 20616
+Prior to addition Adding: 979
+case: composite hundred Added: 25 With result 20641
+Prior to addition Adding: 980
+Case hundred with even ten Added: 20 With result: 20661
+Prior to addition Adding: 981
+case: composite hundred Added: 23 With result 20684
+Prior to addition Adding: 982
+case: composite hundred Added: 23 With result 20707
+Prior to addition Adding: 983
+case: composite hundred Added: 25 With result 20732
+Prior to addition Adding: 984
+case: composite hundred Added: 24 With result 20756
+Prior to addition Adding: 985
+case: composite hundred Added: 24 With result 20780
+Prior to addition Adding: 986
+case: composite hundred Added: 23 With result 20803
+Prior to addition Adding: 987
+case: composite hundred Added: 25 With result 20828
+Prior to addition Adding: 988
+case: composite hundred Added: 25 With result 20853
+Prior to addition Adding: 989
+case: composite hundred Added: 24 With result 20877
+Prior to addition Adding: 990
+Case hundred with even ten Added: 20 With result: 20897
+Prior to addition Adding: 991
+case: composite hundred Added: 23 With result 20920
+Prior to addition Adding: 992
+case: composite hundred Added: 23 With result 20943
+Prior to addition Adding: 993
+case: composite hundred Added: 25 With result 20968
+Prior to addition Adding: 994
+case: composite hundred Added: 24 With result 20992
+Prior to addition Adding: 995
+case: composite hundred Added: 24 With result 21016
+Prior to addition Adding: 996
+case: composite hundred Added: 23 With result 21039
+Prior to addition Adding: 997
+case: composite hundred Added: 25 With result 21064
+Prior to addition Adding: 998
+case: composite hundred Added: 25 With result 21089
+Prior to addition Adding: 999
+case: composite hundred Added: 24 With result 21113
+
+21124
