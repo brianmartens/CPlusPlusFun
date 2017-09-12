@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1385320478 source:c:\users\p00rl3n0\documents\c++ projects\power sum\main.cpp
+	<iostream>
+
+1445800924 source:c:\users\brian martens\documents\c++\power sum\main.cpp
+	<vector>
+	<iostream>
+	<sstream>
+	<string>
+	"BigNum.h"
+
+1445806936 source:c:\users\brian martens\documents\c++\power sum\bignum.cpp
+	"BigNum.h"
+	<vector>
+	<iostream>
+	<sstream>
+	<string>
+
+1445807292 c:\users\brian martens\documents\c++\power sum\bignum.h
+	<vector>
+	<string>
+	<math.h>
+

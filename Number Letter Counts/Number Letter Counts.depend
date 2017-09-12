@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449094196 source:c:\users\bmartens\documents\c++ projects\number letter counts\main.cpp
+	<iostream>
+	"math.h"
+	<fstream>
+
